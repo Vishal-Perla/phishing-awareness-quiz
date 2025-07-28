@@ -18,9 +18,9 @@ I wanted to build something different:
 
 ## 🧠 What It Does
 
-- Presents 12 hand-crafted questions — a mix of multiple choice, image-based, and true/false  
+- Presents 12 hand-crafted questions —> a mix of multiple choice, image-based, and true/false  
 - Covers topics like fake job offers, urgent password reset emails, crypto scams, impersonation DMs, and more  
-- Requires 100% accuracy to pass — the goal is to *learn*, not just guess  
+- Requires 100% accuracy to pass, the goal is to *learn*, not just guess  
 - Offers explanations after each question (even if correct!)  
 - Generates a downloadable certificate for users who score 100%
 
