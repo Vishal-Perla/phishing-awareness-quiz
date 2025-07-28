@@ -4,7 +4,7 @@ A lightweight, interactive phishing awareness training tool designed to **educat
 
 ## 📌 Why I Built This
 
-My grandma recently fell for a scam and lost $1,000.  
+My grandma recently fell for a bank scam and lost $1,000.  
 As someone working in IT, I regularly hear from faculty, staff, and students who fall victim to phishing emails, job scams, and fake login pages.  
 
 The problem?  
