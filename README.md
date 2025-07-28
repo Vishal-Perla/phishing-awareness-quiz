@@ -8,7 +8,7 @@ My grandma recently fell for a bank scam and lost $1,000.
 As someone working in IT, I regularly hear from faculty, staff, and students who fall victim to phishing emails, job scams, and fake login pages.  
 
 The problem?  
-Most cybersecurity “training” is either too technical, too boring, or too easy to ignore — buried in onboarding emails no one ever reads.
+Most cybersecurity “training” is either too technical, too boring, or too easy to ignore and buried in onboarding emails no one ever reads.
 
 I wanted to build something different:  
 - **Real examples** of actual phishing tactics I've seen firsthand  
