@@ -4,10 +4,9 @@ A lightweight, interactive phishing awareness training tool designed to **educat
 
 ## 📌 Why I Built This
 
-My grandma recently fell for a bank scam and lost $1,000.  
-As someone working in IT, I regularly hear from faculty, staff, and students who fall victim to phishing emails, job scams, and fake login pages.  
+Recently, a 73-year-old professor at my school told me she lost $900 to a convincing bank scam. As someone who works in university IT, I constantly hear from faculty, staff, and students who fall victim to phishing emails, fake job offers, and deceptive login pages. It’s honestly frustrating how relentless these scammers are and how little practical training people receive to spot them. I wanted to do something about it. So I created this quiz to help not only elderly individual and students, but everyday users become more vigilant and confident in spotting red flags before it’s too late. 
 
-The problem?  
+The main problem?  
 Most cybersecurity “training” is either too technical, too boring, or too easy to ignore and buried in onboarding emails no one ever reads.
 
 I wanted to build something different:  
@@ -27,15 +26,16 @@ I wanted to build something different:
 ## 🛠️ Built With
 
 - HTML, CSS, JavaScript (Vanilla JS only)
-- No external libraries or frameworks
-- Designed to run **entirely in the browser**
+- Hosted via GitHub Pages
 
-## 🎓 Who This Is For
+## 🌐 Try the Quiz Now!
+🎯 Think you can spot a scam?
+Take the interactive phishing quiz here:
+👉 https://vishal-perla.github.io/phishing-awareness-quiz/
 
-Students and university affiliates
+No downloads, no setup — just click, learn, and protect yourself.
 
-Elderly family members
+## 📫 Contact
 
-Anyone who uses email, texts, or social media
-
-People who think “I’d never fall for a scam” 😉
+Created by **Vishal Perla**  
+Questions or feedback? Reach out via GitHub or email.
