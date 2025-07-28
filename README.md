@@ -1,6 +1,7 @@
 # 🛡️ Phishing Awareness Quiz
 
-A lightweight, interactive phishing awareness training tool designed to **educate anyone through real-world examples and visuals** - no boring PDF's or unecessary long corporate jargon
+A lightweight, interactive phishing awareness training tool designed to **educate anyone through real-world examples and visuals** 
+- no boring PDF's or unecessary long corporate jargon
 
 ## 📌 Why I Built This
 
