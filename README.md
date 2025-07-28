@@ -21,13 +21,21 @@ I wanted to build something different:
 - Presents 12 hand-crafted questions —> a mix of multiple choice, image-based, and true/false  
 - Covers topics like fake job offers, urgent password reset emails, crypto scams, impersonation DMs, and more  
 - Requires 100% accuracy to pass, the goal is to *learn*, not just guess  
-- Offers explanations after each question (even if correct!)  
+- Offers explanations for incorrect answers to encourage learning 
 - Generates a downloadable certificate for users who score 100%
 
-## 🚀 Try It Yourself
+## 🛠️ Built With
 
-To run locally:
+- HTML, CSS, JavaScript (Vanilla JS only)
+- No external libraries or frameworks
+- Designed to run **entirely in the browser**
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Vishal-Perla/phishing-awareness-quiz.git
+## 🎓 Who This Is For
+
+Students and university affiliates
+
+Elderly family members
+
+Anyone who uses email, texts, or social media
+
+People who think “I’d never fall for a scam” 😉
