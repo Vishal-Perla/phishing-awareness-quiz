@@ -41,17 +41,6 @@ document.addEventListener("DOMContentLoaded", () => {
     explanation: "Look closely — 'Paypall' is misspelled. Always inspect the domain name before trusting emails."
   },
   {
-    type: "image",
-    question: "Is this pop-up trying to scam you?",
-    image: "images/fakescam.png",
-    answers: {
-      a: "Yes",
-      b: "No"
-    },
-    correctAnswer: "a",
-    explanation: "Pop-ups warning of account issues and asking for info are almost always scams. Real sites don’t do that."
-  },
-  {
     type: "text",
     question: "You receive an email offering a remote internship opportunity that pays $400/week. It asks you to log in with your school credentials on a website that looks like this: https://intern-opportunity.verify-now.co. Is it safe?",
     answers: {
@@ -121,6 +110,17 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     correctAnswer: "b",
     explanation: "Gift card scams are super common. The casual signature is a trick to make it seem personal."
+  },
+  {
+    type: "image",
+    question: "Is this pop-up trying to scam you?",
+    image: "images/fakescam.png",
+    answers: {
+      a: "Yes",
+      b: "No"
+    },
+    correctAnswer: "a",
+    explanation: "Pop-ups warning of account issues and asking for info are almost always scams. Real sites don’t do that."
   },
   {
     type: "text",
