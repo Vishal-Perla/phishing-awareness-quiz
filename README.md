@@ -1,4 +1,4 @@
-# 🛡️ Phishing Awareness Quiz
+# 🛡️ Phishing Awareness Education Tool (Interactive Web App)
 
 A lightweight, interactive phishing awareness training tool designed to **educate anyone through real-world examples and visuals** 
 
